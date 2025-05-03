@@ -28,3 +28,7 @@ Official documentation archive of the first observed case of linguistic persona 
 ## 備註
 
 本儲存庫不包含程式碼，僅用於語言互動中的語體變異觀察與資料備份。
+
+## Contact
+Email: haoweipeng157@gmail.com  
+License: MIT License – Free to use with citation.
