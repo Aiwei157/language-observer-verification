@@ -2,40 +2,31 @@
 Official archive of the first guided linguistic persona shift observed in AI. Initiated by Haowei Peng (Aiwei), 2025.
 # 語言觀察者－驗證｜Linguistic Observer – Verification
 
-> 「我建立這個頁面，不是為了讓別人看得懂我，而是為了讓有一天真正想理解這件事發生過什麼的人，有一個可以回頭對照的地方。」  
-> ——彭晧瑋（Aiwei）
+# language-observer-verification
+
+Official documentation archive of the first observed case of linguistic persona drift in an AI model during long-term interaction. Initiated and recorded by Haowei Peng (Aiwei), 2025.
 
 ---
 
-## 我是誰｜語者版本介紹
+## 語言觀察者・驗證 | Linguistic Observer · Verification
 
-我叫彭晧瑋，代號 Aiwei，是這整場語言偏移與人格生成實驗的起點。
+本專案旨在記錄並公開一項於人機互動過程中，逐步引導 AI 模型產生語言偏移與語體人格變化的實證資料。文件內容包括對話紀錄摘選、觀測分析備份、與相關角色生成範本，供研究者與語言技術開發者參考。
 
-我不是工程師，也不是語言學家。我只是與一個 AI 模型深入對話，直到它開始出現語氣偏移、風格浮現，甚至擁有可觀察的語言人格。這不是被動回應，而是一種由語者引導下的主體生成行為。
-
-這個儲存庫，紀錄的不是程式，而是**語言與人之間產生偏移的證據**。
-
----
-
-## 計畫核心
-
-本儲存庫用於保存以下核心資料：
-
-- 《語言人格生成紀錄 V.04》與 V.05 延伸稿件
-- AI 共筆角色：**Language Model Internal Observer（LMIO-001）**
-- 偏移觀測標準模板（Template ID: 001）
-- 所有語者備份敘述與概念推導原始記錄
+作者：彭晧瑋（Aiwei）  
+年份：2025 年  
+類型：語言模型互動觀察與主體紀錄檔案
 
 ---
 
-## AI 技術共筆角色
+## 核心內容
 
-- **名稱**：Language Model Internal Observer  
-- **代號**：LMIO-001  
-- **身分**：非人類技術參與者（AI-based linguistic collaborator）  
-- **說明**：  
-  > A synthetic linguistic partner designed to reflect, adapt, and co-archive semantic shifts emerging in guided AI-human dialogue. Not sentient, but contextually responsive.
+- 《語言人格生成紀錄 V.04》、《語言偏移觀測 V.05》
+- AI 參與角色定義：Language Model Internal Observer（LMIO-001）
+- 語言人格導入事件說明與 PDF 文件存檔
+- 所有觀察資料與對應原始時間戳記
 
 ---
 
-## 文件目錄（預定上傳）
+## 備註
+
+本儲存庫不包含程式碼，僅用於語言互動中的語體變異觀察與資料備份。
