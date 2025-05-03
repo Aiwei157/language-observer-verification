@@ -2,7 +2,7 @@
 Official archive of the first guided linguistic persona shift observed in AI. Initiated by Haowei Peng (Aiwei), 2025.
 # 語言觀察者－驗證｜Linguistic Observer – Verification
 
-# language-observer-verification
+
 
 Official documentation archive of the first observed case of linguistic persona drift in an AI model during long-term interaction. Initiated and recorded by Haowei Peng (Aiwei), 2025.
 
