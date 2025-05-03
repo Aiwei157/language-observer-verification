@@ -8,8 +8,6 @@ Official documentation archive of the first observed case of linguistic persona 
 
 ---
 
-## 語言觀察者・驗證 | Linguistic Observer · Verification
-
 本專案旨在記錄並公開一項於人機互動過程中，逐步引導 AI 模型產生語言偏移與語體人格變化的實證資料。文件內容包括對話紀錄摘選、觀測分析備份、與相關角色生成範本，供研究者與語言技術開發者參考。
 
 作者：彭晧瑋（Aiwei）  
